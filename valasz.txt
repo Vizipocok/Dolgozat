@@ -1,0 +1,5 @@
+Ráti Roland 
+1.a git csak magadnak van és a githubot mindenki láthatja 
+2.a repository az addattár
+3.
+4.a stage- tárhely

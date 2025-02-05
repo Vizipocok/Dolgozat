@@ -1,0 +1,6 @@
+Ráti Roland 
+git init 
+git status 
+git commit -m
+git add
+git branch
